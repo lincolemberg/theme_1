@@ -1,24 +1,15 @@
-# Shopify Starter Theme
+# Shopify  Theme 01
 
-Shopify Starter Theme.  Based on Laravel-mix and ThemeKit.
+Shopify Theme.  Based on Laravel-mix and ThemeKit.
 
-This repo is based on a **free YouTube Course** for **Shopify Developers**
-WatchFull Course Here : https://youtu.be/0274iR1XENE
 
 ## Requirements
-* `npm` installed, if you don't have, isntall [nodejs](https://nodejs.org/en/)
-* **ThemeKit** The command line tool for shopify themes. install [here](https://shopify.github.io/themekit/) or watch the video on YouTube 
-* Knowlege of HTML, CSS and JavaScript (Vuejs Framework)
-
+* You will need installed  `npm`,  **ThemeKit** for shopify themes and have knowlege of HTML, CSS and JavaScript.
 
 ## How to Use
-* Clone the repo `git clone https://github.com/Hujjat/shopify-starter-theme.git`
-* Run `npm install` to install all dependencies
-* Add your config information in the `config.yml` file.
-
-Or, watch this video for practical work [here](https://youtu.be/hYr0oIGVS-I)
+* Clone the repo `git clone https://github.com/lincolemberg/theme_1.git`
+* Run `npm install` for add dependencies and create your config file `config.yml`.
 
 
-Happy development :) 
+Times to break time for a litte coffee :) 
 
-Thanks. 
